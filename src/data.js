@@ -34,7 +34,7 @@ export const socialLinks = [
 	},
 	{
 		id: 2,
-		href: 'https://www.twitter.com/mji-jamil',
+		href: 'https://www.twitter.com/mji_jamil',
 		icon: 'fab fa-twitter',
 	},
 	{
